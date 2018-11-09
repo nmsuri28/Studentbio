@@ -28,4 +28,5 @@ ul{
 div.quote {
     width: 400px;
     font-style: italic;
+    text-align: center;
 }
