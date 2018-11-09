@@ -24,3 +24,10 @@ ul{
     list-style-type: circle;
     color: gray;
 }
+
+div.quote {
+    float: right;
+    width: 400px;
+    font-style: italic;
+    padding-right: 200px;
+}
