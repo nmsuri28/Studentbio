@@ -26,8 +26,6 @@ ul{
 }
 
 div.quote {
-    float: right;
     width: 400px;
     font-style: italic;
-    padding-right: 200px;
 }
